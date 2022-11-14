@@ -1,0 +1,37 @@
+#col {
+	position: relative;
+	left: 19px;
+	
+}
+#office{
+	position: relative;
+	left: 160px;
+	top: 99px;
+}
+
+#ol{
+	position: relative;
+	left: 90px;
+}
+
+h5, h6 {
+	text-decoration: underline;
+}
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+.ligne {
+	position: relative;
+	bottom: 20px;
+	left: 199px;
+}
+#card{
+	transition: 0.4s;
+}
+#card:hover{
+	transform: scale(1.1);
+	box-shadow: 1px 0.6px black;
+}
